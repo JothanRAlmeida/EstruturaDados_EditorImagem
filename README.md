@@ -1,4 +1,4 @@
-# Projeto de um editor de imagens
+# Projeto de editor de imagens
 
 - Trabalho de Estrutura de Dados.
 - O projeto permite a busca por qualquer imagem.
