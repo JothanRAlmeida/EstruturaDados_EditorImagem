@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/jotha/OneDrive/Área de Trabalho/UFES/Trabalhos para o portifólio/TRABALHOS ESCOLHIDOS/Editor De Imagem",
+      "program": "c:/Users/jotha/OneDrive/Área de Trabalho/UFES/Trabalhos para o portifólio/TRABALHOS ESCOLHIDOS/Editor De Imagem/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

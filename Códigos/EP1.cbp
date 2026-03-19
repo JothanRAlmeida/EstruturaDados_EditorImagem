@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="EP1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="EP1" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g -O0 -std=c11 -Wall -Werror -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wshadow" />
+				</Compiler>
+				<Linker>
+					<Add library="m" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="EP1" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="C:/Program Files/CodeBlocks/MinGW/bin" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g -O0 -std=c11 -Wall -Werror -Wextra -Wno-sign-compare -Wno-unused-parameter -Wno-unused-variable -Wshadow" />
+				</Compiler>
+				<Linker>
+					<Add library="m" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/include" />
+		</Compiler>
+		<Linker>
+			<Add library="freeglut" />
+			<Add library="opengl32" />
+			<Add library="glu32" />
+			<Add library="winmm" />
+			<Add library="gdi32" />
+			<Add directory="C:/Program Files/CodeBlocks/MinGW/lib" />
+		</Linker>
+		<Unit filename="Filtros.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Filtros.h" />
+		<Unit filename="Grafico.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Grafico.h" />
+		<Unit filename="Imagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Imagem.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,98 @@
+# depslib dependency file v1.0
+1584205422 source:c:\users\oberlan romão\desktop\ep1\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1613957849 source:c:\users\fabio\downloads\freeglut\ep1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+
+1426360528 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426360528 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1615381487 source:c:\users\fabio\onedrive\documentos\ep1\filtros.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Imagem.h"
+	"Filtros.h"
+
+1614711394 c:\users\fabio\onedrive\documentos\ep1\imagem.h
+
+1615328368 c:\users\fabio\onedrive\documentos\ep1\filtros.h
+	"Imagem.h"
+
+1615382714 source:c:\users\fabio\onedrive\documentos\ep1\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Imagem.h"
+	"Filtros.h"
+
+1615381857 source:c:\users\fabio\onedrive\documentos\ep1\imagem.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Imagem.h"
+
+1615414726 source:c:\users\fabio\onedrive\documentos\ep1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Imagem.h"
+	"Grafico.h"
+
+1614552183 c:\users\fabio\onedrive\documentos\ep1\grafico.h
+	"Imagem.h"
+
+1615382714 source:c:\users\windows\desktop\jothan\matérias de programação\estruturas de dados 1\ep1\grafico.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	"Imagem.h"
+	"Filtros.h"
+
+1614711394 c:\users\windows\desktop\jothan\matérias de programação\estruturas de dados 1\ep1\imagem.h
+
+1615328368 c:\users\windows\desktop\jothan\matérias de programação\estruturas de dados 1\ep1\filtros.h
+	"Imagem.h"
+
+1615415078 source:c:\users\windows\desktop\jothan\matérias de programação\estruturas de dados 1\ep1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Imagem.h"
+	"Grafico.h"
+
+1614552183 c:\users\windows\desktop\jothan\matérias de programação\estruturas de dados 1\ep1\grafico.h
+	"Imagem.h"
+
+1616676463 source:c:\users\windows\desktop\jothan\matérias de programação\estruturas de dados 1\ep1\filtros.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Imagem.h"
+	"Filtros.h"
+
+1616617255 source:c:\users\windows\desktop\jothan\matérias de programação\estruturas de dados 1\ep1\imagem.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Imagem.h"
+
